@@ -4,7 +4,7 @@ function that will take an array as input, sort, and return the array in descend
 
 # how to run
 
-open Project Root folder in vs code
-open index.js file
-Open terminal in vs code and select devug consile tab
+Open Project Root folder in vs code
+Open index.js file
+Open terminal in vs code and select "debug console" tab
 Press f5
